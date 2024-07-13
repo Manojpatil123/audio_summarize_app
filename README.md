@@ -1,1 +1,2 @@
-# audio_summarize_app
+# Audio-Summarization-App-using-Gemini-LLM
+Audio Summarization App using Gemini LLM.
